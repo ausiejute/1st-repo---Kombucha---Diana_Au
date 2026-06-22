@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+  margin: 30px 50px;
+  
+}
+
+h1 {
+   background-color: DodgerBlue;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  display: flex;
+justify-content: center;
+}
+
+#firstimage, #secondimage, #thirdimage {
+display: flex;
+justify-content: center;
+
+}
+
+.maintext  {
+  text-align: justify;
+  font-family: Verdana, sans-serif;
+  font-size: 14px;
+}
